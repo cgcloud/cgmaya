@@ -1,0 +1,2 @@
+# cgmaya
+maya core package
